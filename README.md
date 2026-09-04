@@ -30,13 +30,19 @@ Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unin
 ### 🛠️ Competências & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Branding%20%26%20Identidade%20Visual-7303c0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Branding%20%26%20Identidade%20Visual-7303c0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-UX%2FUI%20Design-FF2E9F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,ps,ai" alt="Skills"/>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,git,figma,ps,ai,nodejs,express,react,mongodb,mysql,python,github" alt="Skills"/>
+
 </p>
 <br>
 
