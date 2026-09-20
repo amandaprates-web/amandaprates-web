@@ -65,12 +65,11 @@ Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unin
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaprates-web&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=amandaprates-web&theme=radical&hide_border=true&background=0D0221"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprates-web&layout=pie&theme=radical&hide_border=true&bg_color=0d0221&langs_count=10"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=amandaprates-web&theme=radical&hide_border=true&background=0D0221"/>
 </p>
 
 <br>
