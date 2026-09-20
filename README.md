@@ -70,7 +70,7 @@ Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unin
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprates-web&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0221"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprates-web&layout=pie&theme=radical&hide_border=true&bg_color=0d0221&langs_count=10"/>
 </p>
 
 <br>
