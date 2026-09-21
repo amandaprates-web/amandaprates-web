@@ -19,20 +19,14 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
 
-          # Tema escuro parecido com o print
+          # Tema escuro
           theme: dark-purple
-          base: header, activity, community, repositories
+          base: ""
           config_timezone: America/Sao_Paulo
 
-          # Card "My GitHub Statistics" (stars, commits, PRs, issues, rank)
-          plugin_lines: yes
-          plugin_lines_section_stars: yes
-          plugin_lines_section_lines: no
-
-          # Card "My Top Used Languages"
+          # Só a barra "Most used languages" — nada mais
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_recent_categories: markup, programming
           plugin_languages_threshold: 0%
-          plugin_languages_limit: 20
