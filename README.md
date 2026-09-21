@@ -65,7 +65,7 @@ Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unin
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src=".github/workflows/metrics.yml" alt="GitHub Metrics"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
