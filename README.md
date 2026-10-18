@@ -14,14 +14,13 @@
 
 ### ⚡ Sobre mim
 
-Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unindo lógica de programação com olhar estético e branding. Atualmente cursando pós-graduação em **Desenvolvimento Web** e em **Design Gráfico**, em busca de oportunidades pra aplicar tecnologia, design e criatividade no mercado de trabalho.
+Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unindo lógica de programação com olhar estético e branding. Atualmente cursando pós-graduação em **Desenvolvimento Web**, em busca de oportunidades pra aplicar tecnologia, design e criatividade no mercado de trabalho.
 
 <br>
 
 ### 🎓 Formação Acadêmica
 
 - 💻 Pós-Graduação em Desenvolvimento Web
-- 🎨 Pós-Graduação em Design Gráfico
 - 🖌️ Tecnólogo em Design Gráfico
 - 🎓 Bacharelado em Sistemas de Informação
 
