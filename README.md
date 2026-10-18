@@ -87,7 +87,7 @@ Profissional formada em **Sistemas de Informação** e **Design Gráfico**, unin
 
 <p align="center">
   <a href="https://amandaprates-dev.vercel.app/" target="_blank">
-    <img src="https://api.microlink.io/?url=https://amandaprates-dev.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=1000" width="600" alt="Preview do Portfólio"/>
+    <img src="https://api.microlink.io/?url=https://amandaprates-dev.vercel.app//&screenshot=true&meta=false&embed=screenshot.url&waitFor=1000" width="600" alt="Preview do Portfólio"/>
   </a>
   <br><br>
   <a href="https://amandaprates-dev.vercel.app/" target="_blank">
